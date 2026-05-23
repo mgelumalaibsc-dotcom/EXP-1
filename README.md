@@ -73,7 +73,10 @@ Calculation:
 
 Tabulation:
 
+Tabulation:
+
 a.   KVL:
+
  <img width="627" height="317" alt="image" src="https://github.com/user-attachments/assets/224e951f-7ac9-42af-adf4-4cb127e5d080" />
 
 
