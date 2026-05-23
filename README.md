@@ -56,7 +56,11 @@ b.  KCL:
 
 Calculation:
 <img width="807" height="389" alt="{B62ADF72-2C40-4E5F-8048-0C8E258EA3BA}" src="https://github.com/user-attachments/assets/6b1e9fbe-7463-4c25-a075-36f838578da4" />
+
+
 <img width="525" height="688" alt="{72EBEF59-F705-4DF7-9DE2-8DFA9A8BD18A}" src="https://github.com/user-attachments/assets/2e4129c4-4b24-40af-b25a-b9692396a5d4" />
+
+
 <img width="635" height="642" alt="{1506824C-A2EA-4F1C-A5BC-FD3293DC1519}" src="https://github.com/user-attachments/assets/eddef45e-3bdb-487e-827b-99500613820a" />
 
 
