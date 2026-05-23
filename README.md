@@ -55,6 +55,9 @@ b.  KCL:
 <img width="796" height="440" alt="{38A3FEF2-5A4A-4993-8AC7-EB09FBA28648}" src="https://github.com/user-attachments/assets/ca38dc9c-7b68-470f-a375-84b37ab1c068" />
 
 Calculation:
+
+Calculation:
+
 <img width="807" height="389" alt="{B62ADF72-2C40-4E5F-8048-0C8E258EA3BA}" src="https://github.com/user-attachments/assets/6b1e9fbe-7463-4c25-a075-36f838578da4" />
 
 
